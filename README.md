@@ -1,6 +1,6 @@
 # Magento 2 Product Questions
 
-Online shoppers may find it difficult to sometimes check the quality or appearance of the product. Such details can only be known when you check the product physically which is not possible in online shopping. To overcome this limitation, Meetanshi has developed ***[Magento 2 Product Questions](https://meetanshi.com/magento-2-product-questions.html)***extension.
+Online shoppers may find it difficult to sometimes check the quality or appearance of the product. Such details can only be known when you check the product physically which is not possible in online shopping. To overcome this limitation, Meetanshi has developed ***[Magento 2 Product Questions](https://meetanshi.com/magento-2-product-questions.html)*** extension.
 
 
 The module allows customers to ask questions related to the products and other customers to answer them on the product page. The admin can also add questions and answers related to the products.
